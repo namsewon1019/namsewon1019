@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 **namsewon1019/namsewon1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
