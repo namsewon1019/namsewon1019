@@ -6,5 +6,5 @@
 
 **Im here**
 
-<img src="https://img.shields.io/badge/swnam0729@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/namsewon21-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
 
