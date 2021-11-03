@@ -8,3 +8,5 @@
 
 <img src="https://img.shields.io/badge/Gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsewon1019&show_icons=true&theme=radical)
+
