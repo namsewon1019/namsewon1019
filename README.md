@@ -12,3 +12,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namsewon1019&show_icons=true&theme=radical)
 
+![](https://img.shields.io/github/followers/namsewon1019?style=social)
+
