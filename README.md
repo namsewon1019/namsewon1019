@@ -8,7 +8,7 @@
 
 **🧑IM HERE🧑**
 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"><a href="https://www.kakaocorp.com/page/service/service/KakaoTalk" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
 
 **MY GITHUB STATS**
 
